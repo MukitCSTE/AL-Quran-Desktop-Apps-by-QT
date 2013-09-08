@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="exit.png">images/exit.png</file>
+        <file alias="music_folder.png">images/music_folder.png</file>
+        <file alias="pause.png">images/pause.png</file>
+        <file alias="play.png">images/play.png</file>
+        <file alias="stop.png">images/stop.png</file>
+        <file alias="icon.png">images/icon.png</file>
+        <file>images/mu.png</file>
+        <file>Arnob/q/001sura_al__baqura_pqrt1.mp3</file>
+        <file>images/aa.png</file>
+        <file>images/m.PNG</file>
+    </qresource>
+</RCC>
